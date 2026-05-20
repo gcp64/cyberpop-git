@@ -1,4 +1,4 @@
-# 👾 Cyberpop AI Git CLI 👾
+# Cyberpop AI Git CLI
 
 <div align="center">
   <img src="icon.png" alt="Cyberpop Logo" width="150" height="150" style="border-radius: 20%;" />
@@ -19,7 +19,7 @@ Developed by **gcp64** (bob) with architectural safety and engineering excellenc
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **`cyberpop-git config`**: Securely configure and save your Gemini or OpenAI API keys, specify model architectures, and define secure proxy variables. All settings are locally encrypted.
 * **`cyberpop-git init`**: Scan directory structures dynamically to auto-detect target frameworks and languages, writing a custom, optimized `.gitignore` tailored specifically to your project.
@@ -28,7 +28,7 @@ Developed by **gcp64** (bob) with architectural safety and engineering excellenc
 
 ---
 
-## 🔒 Zero-Knowledge Cyber Security Hardening
+## Zero-Knowledge Cyber Security Hardening
 
 To ensure complete resistance against credential scraping, malicious code injections, and network interception, **Cyberpop** integrates four distinct layers of security:
 
@@ -51,7 +51,7 @@ The codebase is compiled and obfuscated using **PyArmor** before building the ex
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 ### Running from Source Code
 1. Clone the repository and navigate into the root directory.
@@ -66,7 +66,7 @@ The codebase is compiled and obfuscated using **PyArmor** before building the ex
    python -m cyberpop_git.main --help
    ```
 
-### 📦 Building the Standalone `.exe`
+### Building the Standalone `.exe`
 A customized build automation script is included to produce a clean, lightweight Windows standalone executable. It automatically excludes over 20 redundant libraries (such as `tkinter`, `unittest`, `multiprocessing`) to keep the binary small (~22 MB).
 
 Run the compilation script:
@@ -77,7 +77,7 @@ The output executable will be saved directly in `dist/cyberpop-git.exe`.
 
 ---
 
-## 🎯 Command Manual
+## Command Manual
 
 ### 1. Setup API Keys
 Connect to Gemini API (Default, recommended):
@@ -114,7 +114,7 @@ cyberpop-git summary
 
 ---
 
-## ⚖️ Terms of Use & License
+## Terms of Use & License
 
 * **Terms of Use**: This application is provided "as-is" without warranty of any kind. You are responsible for ensuring that the code diffs analyzed by the AI providers do not violate your organization's security policies or leak proprietary internal business rules.
 * **Privacy Assurance**: The CLI does not communicate with any external backend server owned by third parties except direct REST API calls to the official Gemini/OpenAI endpoints. No telemetry or device metadata is captured.
