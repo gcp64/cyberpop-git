@@ -1,0 +1,78 @@
+# ==========================================
+# Cyberpop Git CLI Generated .gitignore
+# OS & IDE Configuration
+# ==========================================
+
+# OS Files
+[Dd]esktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# ==========================================
+# Python Development Environment
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+active/
+*.venv
+
+# Distribution & Build
+dist/
+build/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.cache/
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.hypothesis/
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Workspace Scratch & Temporary Files
+scratch/
+out.txt
+*.spec
+convert_icon.py
+scratch_test_ar.py
+
