@@ -5,6 +5,10 @@
   <p><strong>Local-First • Zero-Knowledge Crypto • High-Performance AI Git Automation</strong></p>
 </div>
 
+<div align="center">
+  <img src="screenshot.png" alt="Cyberpop App Screenshot" width="800" style="border-radius: 10px; margin: 20px 0; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" />
+</div>
+
 ---
 
 **Cyberpop AI Git CLI** is a premium, lightweight, standalone command-line interface (CLI) that automates your Git workflows using state-of-the-art neural networks. Built with a stunning cyberpunk-themed interface, it allows developers to write beautiful, standardized commit messages, initialize project files, and generate daily standup summaries instantly.
